@@ -40,10 +40,18 @@
 - Click **Install** and wait for the process to complete
 - When finished, reboot system and remove USB
 
-## 6. First Boot & Updates
-- Log in to Ubuntu
-- Open Terminal
-- Run:
+## 6. First Login & System Updates
+- Log in to Ubuntu using the account created during installation.
+- During first login, you may be prompted:
+  - **“Help improve Ubuntu by sharing system data with the Ubuntu team”**
+  - Select **“No, don’t share system data”**.
+
+- Open the Terminal:
+  - Press **Ctrl + Alt + T**
+    **OR**
+  - Click **Activities** (top-left) → search **“Terminal”** → open it.
+
+- Update the system:
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
