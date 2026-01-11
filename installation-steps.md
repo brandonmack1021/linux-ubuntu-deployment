@@ -34,7 +34,7 @@
   - Enter name, computer name, username, password
   - Check **Require my password to login**
   - Leave **Use Active Directory** unchecked
-- **Time zone:** America/Chicago (Central Time)
+- **Time zone:** select your local time zone
 
 ## 5. Finish Installation
 - Click **Install** and wait for the process to complete
